@@ -1,0 +1,12 @@
+{
+  "name": "codeloom",
+  "version": "1.0.0",
+  "description": "[![Preview](https://img.shields.io/badge/CLICK%20HERE-Preview-blue)](https://code-loom.vercel.app/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
